@@ -1,0 +1,15 @@
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\bin\Debug\net6.0\HelloWord.exe
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\bin\Debug\net6.0\HelloWord.deps.json
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\bin\Debug\net6.0\HelloWord.runtimeconfig.json
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\bin\Debug\net6.0\HelloWord.dll
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\bin\Debug\net6.0\HelloWord.pdb
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\obj\Debug\net6.0\HelloWord.csproj.AssemblyReference.cache
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\obj\Debug\net6.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\obj\Debug\net6.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\obj\Debug\net6.0\HelloWord.AssemblyInfo.cs
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\obj\Debug\net6.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\obj\Debug\net6.0\HelloWord.dll
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\obj\Debug\net6.0\refint\HelloWord.dll
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\obj\Debug\net6.0\HelloWord.pdb
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\obj\Debug\net6.0\HelloWord.genruntimeconfig.cache
+C:\Users\ittas\Downloads\HelloWord-master\HelloWord-master\HelloWord\obj\Debug\net6.0\ref\HelloWord.dll
